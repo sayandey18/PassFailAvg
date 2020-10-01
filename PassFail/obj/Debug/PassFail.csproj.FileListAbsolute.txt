@@ -1,0 +1,10 @@
+C:\Users\Sayan\source\repos\PassFail\PassFail\bin\Debug\PassFail.exe.config
+C:\Users\Sayan\source\repos\PassFail\PassFail\bin\Debug\PassFail.exe
+C:\Users\Sayan\source\repos\PassFail\PassFail\bin\Debug\PassFail.pdb
+C:\Users\Sayan\source\repos\PassFail\PassFail\obj\Debug\PassFail.csprojAssemblyReference.cache
+C:\Users\Sayan\source\repos\PassFail\PassFail\obj\Debug\PassFail.Form1.resources
+C:\Users\Sayan\source\repos\PassFail\PassFail\obj\Debug\PassFail.Properties.Resources.resources
+C:\Users\Sayan\source\repos\PassFail\PassFail\obj\Debug\PassFail.csproj.GenerateResource.cache
+C:\Users\Sayan\source\repos\PassFail\PassFail\obj\Debug\PassFail.csproj.CoreCompileInputs.cache
+C:\Users\Sayan\source\repos\PassFail\PassFail\obj\Debug\PassFail.exe
+C:\Users\Sayan\source\repos\PassFail\PassFail\obj\Debug\PassFail.pdb
